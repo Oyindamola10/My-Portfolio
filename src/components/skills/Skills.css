@@ -1,0 +1,63 @@
+.parentCon2{
+    height: 100vh;
+    padding-top: 90px;
+    background-color:#1f2235;
+    color: #ffff;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.theExp1{
+    padding: 50px 40px 0px;
+}
+
+
+#theExp{
+    color:#AD9957 ;
+}
+
+#theExp2{
+    /* font-size: large; */
+    margin-top: 30px;
+    font-weight: bolder;
+    font-size: 87px;
+}
+
+.BtnCon{
+    background-color: #1f2235;
+    color: #ffff;
+    padding: 30px;
+   
+
+}
+
+.hireBtn{
+    background-color: #1f2235;
+    color: #ffff;
+    padding: 10px;
+    border: #AD9957;
+    align-items: center;
+
+}
+
+
+
+
+ .hireBtn a{
+  text-decoration: none;
+  color: White;
+  align-items: center;
+  border: 1px solid #AD9957;
+  border-radius: 29px;
+  padding: 10px;
+  /* color: #1f2235; */
+}
+
+
+.hireBtn a:hover{
+    background-color: #AD9957;
+    color: #ffff;
+}
+
+

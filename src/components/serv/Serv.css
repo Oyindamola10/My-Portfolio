@@ -1,0 +1,36 @@
+.theBody1{
+    background-color:#1f2235;
+    /* height: 100vh; */
+    padding-top: 90px;
+    height: 130vh;
+}
+
+.card{
+    width: 304px;
+    height: 287px;
+    margin: 70px;
+    background-color: #23263a;
+    color: #ffff;
+    
+}
+
+.card:hover{
+    background-color: #ad9957;
+}
+
+#gitHub{
+    font-size: 38px;
+    color: #ffff;
+}
+
+#gitHub:hover::after{
+    background-color: #ffff;
+}
+
+hr.rounded{
+    border-top: 7px solid #ad9957;
+    border-radius: 2px;
+    width: 82px;
+    margin-bottom: 17px;
+    margin-left: 593px;
+}

@@ -1,0 +1,91 @@
+.aboutCon{
+    background-color: #23263A;
+    padding-top: 95px;
+    height: 100vh;
+}
+
+#aboutLine{
+    height: 5px;
+}
+.parentCon{
+    display: flex;
+    flex-direction: column;
+} 
+#theImg3{
+    position: relative;
+    bottom: 415px;
+    padding-left: 85px;
+}
+
+#theHeader{
+    font-size: 30px;
+    color: #ffff;
+    position: relative;
+    bottom: 165px;
+    
+}
+
+#headName{
+    color: #fff;
+    position: relative;
+    bottom: 145px;
+}
+
+#thename{
+    color: #ad9957;
+    position: relative;
+    bottom: 105px;
+}
+
+#myname{
+    color: #ffff;
+    /* font-weight:bold; */
+    font-size: 18px;
+    position: relative;
+    bottom: 97px;
+}
+
+#theemail{
+    color: #ad9957;
+    position: relative;
+    bottom: 95px;
+}
+
+#myemail{
+    color: #ffff;
+    /* font-weight: bold; */
+    font-size: 18px;
+    position: relative;
+    bottom: 85px;
+}
+
+#thephone{
+    color: #ad9957;
+    position: relative;
+    bottom: 255px;
+    left:320px ;
+}
+#myphone{
+    color: #ffff;
+    font-size: 18px;
+    position: relative;
+    bottom: 246px;
+    left: 320px;
+}
+
+#theLinked{
+    color: #ad9957;
+    position: relative;
+    bottom: 244px;
+    left:320px ;
+}
+
+#myLinked a{
+    text-decoration: none;
+    color: #ffff;
+    font-size: 18px;
+    position: relative;
+    bottom: 234px;
+    left: 320px;
+
+}

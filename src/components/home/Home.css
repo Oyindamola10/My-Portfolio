@@ -1,0 +1,139 @@
+.parentCon{
+    background-color: #24263B;
+    justify-content: center;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    /* width: 100%; */
+}
+
+@media(max-width:500px){
+    .parentCon{
+        display: flex;
+        flex-direction: row;
+        height: 100vh;
+        /* padding-bottom: 30px; */
+        justify-content: center;
+    }
+}
+
+.myIcons{
+    padding-top: 354px;
+    padding-left: 30px;
+
+    
+    
+}
+
+@media (max-width:500px){
+    
+    .myIcons{
+            padding-top: 53px;
+            padding-left: 25px;
+        
+    }
+}
+
+#myIcon{
+    text-decoration: none;
+    color: #ffff;
+    margin: 10px;
+    font-size: 20px;
+    /* font-weight: bolder; */
+    padding: 13px;
+    height: 50px;
+    width: 50px;
+    align-items: center;
+    border: 1px solid #AD9957;
+    border-radius: 50%;
+
+}
+@media all and (max-width:500px){
+    #myIcon{
+       font-size: 0.75rem; 
+       margin: 5px;
+       padding: 8px;
+    }
+}
+
+#myIcon:hover{
+    background-color: #AD9957;
+}
+
+#myName{
+    color: #ffff;
+    padding-top: 35px;
+    padding-left: 30px;
+    font-size: 67px;
+    font-weight: bold;
+    /* text-align: center; */
+}
+@media (max-width:500px){
+    #myName{
+        padding-top: 150px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+}
+
+#myExp{
+    color: #ffff;
+    font-size: 18px;
+    padding-left: 32px;
+    padding-top: 10px;
+    font-weight: lighter;
+}
+
+@media all and (max-width:500px){
+    #myExp{
+       word-wrap: break-word;
+       font-size: 12px;
+       font-weight: lighter;
+    }
+}
+
+.btn1{
+    padding-left: 96px;
+    padding-bottom: 31px;
+}
+
+#theBtn{
+    color: #ffff;
+    font-weight: bold;
+    font-size:18px;
+    border: 1px solid #AD9957;
+    background-color: #24263B;
+    border-radius: 35px;
+    /* justify-content: center; */
+    
+   
+}
+
+#theBtn:hover{
+    background-color: #AD9957;
+}
+
+#portLink{
+    text-decoration: none;
+    color: #ffff;
+}
+
+#theImg2{
+    width: 325px;
+    height: 578px;
+    position: absolute;
+    top: 2px;
+    left: 869px;
+    
+}
+
+@media (max-width:500px){
+    #theImg2{
+        width: 125px;
+    }
+}
+
+
+   
+

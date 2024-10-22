@@ -1,0 +1,25 @@
+.parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#theTitle{
+    color: #ad9957;
+}
+
+#theShort{
+    color: #ffff;
+    font-size: 53px;
+    font-weight: bolder;
+
+}
+
+#theTxt{
+    color:#ffff;
+    align-items: center;
+    text-align: center;
+}
+
+
